@@ -1,0 +1,10 @@
+
+{
+	id : 1001,
+	name : 'Skg',
+	fed : 'RSA',
+	rating : 1420,
+	age : 31,
+	contact : 'skg@email.com'
+}
+{name : "Dineo", age : 25, contact: "dinny@email.com"}{name : "Dineo", age : 25, contact: "dinny@email.com"}{name : "Dineo", age : 25, contact: "dinny@email.com"}{name : "Dineo", age : 25, contact: "dinny@email.com"}
